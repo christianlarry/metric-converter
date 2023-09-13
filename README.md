@@ -10,6 +10,7 @@ Aplikasi ini dibangun menggunakan framework Ionic dan telah di-build untuk platf
 - Dukungan untuk platform Android.
 
 ## Penggunaan
+![Penggunaan Aplikasi Metric Converter By: Christian Rondonuwu](https://github.com/christianlarry/metric_converter-ChristianRondonuwu-IONIC/blob/master/converter.gif)
 
 Setelah menginstal aplikasi, Anda dapat membuka aplikasi Metric Converter di perangkat Android Anda. Berikut langkah-langkah penggunaan aplikasi:
 
